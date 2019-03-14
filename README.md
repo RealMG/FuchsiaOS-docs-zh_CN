@@ -2,13 +2,12 @@
 
 原始英文文档 fork 自 https://fuchsia.googlesource.com/docs/
 
- - [贡献者名单](CREDITS.md) - 参与贡献 Fuchsia OS 简体中文文档翻译的志愿者列表
+ - [翻译分工](CREDITS.md) - 参与贡献 Fuchsia OS 简体中文文档翻译的志愿者分工情况。
  - [约定与术语表](https://github.com/servicemesher/istio-official-translation/issues/77) - 本文档提及有争议的术语表
  - [开发](development/README.md) - 介绍如何参与开发、编译、运行、以及测试 Fuchsia OS 和 Fuchsia OS 软件的方法与细节。
  - [系统](the-book/README.md) - 介绍 Fuchsia OS 如何运作。
- - [仓库结构](map.md)
- - [Contributing changes](CONTRIBUTING.md)
- 
+ - [仓库结构](map.md) - 项目的目录结构。
+
 Fuchsia OS 中文社区
  
  - 网站  https://fuchsia-china.com
@@ -17,10 +16,12 @@ Fuchsia OS 中文社区
  - QQ群：788645873
  - 微信：https://fuchsia-china.com/join
 
+<!--
 Other files in this repository are **system-wide** documentation articles for
 Fuchsia. **Individual subprojects** have their own documentation within each
 project repository. The articles above link to Individual documents both within
 the system-wide repository and within Individual project repositories.
+-->
 
 ## 文档校对
 
